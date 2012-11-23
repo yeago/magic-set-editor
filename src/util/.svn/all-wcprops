@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util
+END
+prec.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/prec.hpp
+END
+error.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/error.hpp
+END
+rotation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/rotation.cpp
+END
+file_utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/file_utils.cpp
+END
+spec_sort.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/spec_sort.cpp
+END
+real_point.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/real_point.hpp
+END
+age.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/age.hpp
+END
+order_cache.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/order_cache.hpp
+END
+rotation.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/rotation.hpp
+END
+locale.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/locale.hpp
+END
+file_utils.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/file_utils.hpp
+END
+spec_sort.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/spec_sort.hpp
+END
+index_map.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/index_map.hpp
+END
+regex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/regex.cpp
+END
+defaultable.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/defaultable.hpp
+END
+regex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/regex.hpp
+END
+smart_ptr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/smart_ptr.hpp
+END
+atomic.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/atomic.hpp
+END
+version.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/version.cpp
+END
+window_id.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/window_id.hpp
+END
+reflect.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/reflect.hpp
+END
+version.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/version.hpp
+END
+vcs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/vcs.cpp
+END
+vector2d.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/vector2d.hpp
+END
+vcs.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/vcs.hpp
+END
+action_stack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/action_stack.cpp
+END
+spell_checker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/spell_checker.cpp
+END
+string.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/string.cpp
+END
+action_stack.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/action_stack.hpp
+END
+spell_checker.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/spell_checker.hpp
+END
+string.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/string.hpp
+END
+for_each.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/for_each.hpp
+END
+alignment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/alignment.cpp
+END
+find_replace.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/find_replace.hpp
+END
+tagged_string.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/tagged_string.cpp
+END
+dynamic_arg.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/dynamic_arg.hpp
+END
+alignment.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/alignment.hpp
+END
+delayed_index_maps.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/delayed_index_maps.hpp
+END
+tagged_string.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/tagged_string.hpp
+END
+platform.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/platform.hpp
+END
+error.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/error.cpp
+END
+angle.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/angle.hpp
+END
+age.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/age.cpp
+END

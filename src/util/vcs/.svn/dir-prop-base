@@ -1,0 +1,26 @@
+K 10
+svn:ignore
+V 182
+doc
+build
+bak
+doc
+db
+.deps
+.dirstamp
+config.log
+config.status
+autom4te.cache
+aclocal.m4
+Makefile
+core
+magicseteditor
+stamp-h1
+config.h
+doxygen
+warnings.log
+docwarnings.log
+packages
+
+
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/magicseteditor/!svn/ver/1461/trunk/doc/script
+END
+introduction.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/magicseteditor/!svn/ver/852/trunk/doc/script/introduction.txt
+END
+control_structures.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/magicseteditor/!svn/ver/1174/trunk/doc/script/control_structures.txt
+END
+index.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/magicseteditor/!svn/ver/1015/trunk/doc/script/index.txt
+END
+functions.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/magicseteditor/!svn/ver/985/trunk/doc/script/functions.txt
+END
+variables.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/magicseteditor/!svn/ver/985/trunk/doc/script/variables.txt
+END
+default_arguments.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/magicseteditor/!svn/ver/1006/trunk/doc/script/default_arguments.txt
+END
+best_practices.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/magicseteditor/!svn/ver/997/trunk/doc/script/best_practices.txt
+END
+predefined_variables.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/magicseteditor/!svn/ver/606/trunk/doc/script/predefined_variables.txt
+END
+operators.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/magicseteditor/!svn/ver/1461/trunk/doc/script/operators.txt
+END

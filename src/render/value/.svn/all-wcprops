@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/magicseteditor/!svn/ver/1766/trunk/src/render/value
+END
+choice.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/render/value/choice.hpp
+END
+viewer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/render/value/viewer.cpp
+END
+symbol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/render/value/symbol.cpp
+END
+package_choice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/render/value/package_choice.cpp
+END
+multiple_choice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/render/value/multiple_choice.cpp
+END
+viewer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/render/value/viewer.hpp
+END
+symbol.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/render/value/symbol.hpp
+END
+package_choice.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/render/value/package_choice.hpp
+END
+multiple_choice.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/render/value/multiple_choice.hpp
+END
+color.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/render/value/color.cpp
+END
+image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/magicseteditor/!svn/ver/1766/trunk/src/render/value/image.cpp
+END
+color.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/render/value/color.hpp
+END
+text.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/render/value/text.cpp
+END
+information.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/render/value/information.cpp
+END
+image.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/render/value/image.hpp
+END
+text.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/render/value/text.hpp
+END
+information.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/render/value/information.hpp
+END
+choice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/render/value/choice.cpp
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/io
+END
+package.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/io/package.hpp
+END
+writer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/io/writer.hpp
+END
+reader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/io/reader.cpp
+END
+package_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/io/package_manager.cpp
+END
+get_member.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/io/get_member.cpp
+END
+reader.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/io/reader.hpp
+END
+package_manager.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/io/package_manager.hpp
+END
+get_member.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/io/get_member.hpp
+END
+package.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/io/package.cpp
+END
+writer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/io/writer.cpp
+END

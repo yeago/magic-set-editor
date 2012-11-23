@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/magicseteditor/!svn/ver/1753/trunk/tests/util
+END
+MseTestUtils.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/magicseteditor/!svn/ver/1753/trunk/tests/util/MseTestUtils.pm
+END
+TestFramework.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/magicseteditor/!svn/ver/1660/trunk/tests/util/TestFramework.pm
+END

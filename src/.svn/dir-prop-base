@@ -1,0 +1,30 @@
+K 10
+svn:ignore
+V 212
+*.bak
+*.i
+*.ncb
+*.pch
+*.user
+.deps
+.dirstamp
+Makefile
+aclocal.m4
+autom4te.cache
+bak
+build
+config.h
+config.log
+config.status
+core
+db
+doc
+docwarnings.log
+doxygen
+magicseteditor
+packages
+stamp-h1
+warnings.log
+*.suo
+
+END

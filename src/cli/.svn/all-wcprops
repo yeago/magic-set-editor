@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/cli
+END
+cli_main.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/cli/cli_main.hpp
+END
+text_io_handler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/cli/text_io_handler.cpp
+END
+win32_cli_wrapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/cli/win32_cli_wrapper.cpp
+END
+cli_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/cli/cli_main.cpp
+END
+text_io_handler.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/cli/text_io_handler.hpp
+END

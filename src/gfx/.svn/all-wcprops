@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/gfx
+END
+rotate_image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/gfx/rotate_image.cpp
+END
+generated_image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/gfx/generated_image.cpp
+END
+generated_image.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/gfx/generated_image.hpp
+END
+resample_image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/gfx/resample_image.cpp
+END
+resample_text.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/gfx/resample_text.cpp
+END
+combine_image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/gfx/combine_image.cpp
+END
+color.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/gfx/color.cpp
+END
+bezier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/gfx/bezier.cpp
+END
+image_effects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/gfx/image_effects.cpp
+END
+polynomial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/gfx/polynomial.cpp
+END
+color.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/gfx/color.hpp
+END
+bezier.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/gfx/bezier.hpp
+END
+blend_image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/gfx/blend_image.cpp
+END
+polynomial.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/gfx/polynomial.hpp
+END
+gfx.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/gfx/gfx.hpp
+END
+mask_image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/gfx/mask_image.cpp
+END

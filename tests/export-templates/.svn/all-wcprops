@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/magicseteditor/!svn/ver/1664/trunk/tests/export-templates
+END
+run-tests.pl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/magicseteditor/!svn/ver/1664/trunk/tests/export-templates/run-tests.pl
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/vcs
+END
+subversion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/vcs/subversion.cpp
+END
+subversion.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/util/vcs/subversion.hpp
+END

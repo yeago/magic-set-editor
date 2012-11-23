@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/render/text
+END
+element.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/render/text/element.hpp
+END
+viewer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/render/text/viewer.cpp
+END
+compound.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/render/text/compound.cpp
+END
+symbol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/render/text/symbol.cpp
+END
+font.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/render/text/font.cpp
+END
+viewer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/render/text/viewer.hpp
+END
+element.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/magicseteditor/!svn/ver/1764/trunk/src/render/text/element.cpp
+END
