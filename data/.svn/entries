@@ -1,286 +1,0 @@
-10
-
-dir
-1767
-https://magicseteditor.svn.sourceforge.net/svnroot/magicseteditor/trunk/data
-https://magicseteditor.svn.sourceforge.net/svnroot/magicseteditor
-
-
-
-2012-03-18T17:09:30.635992Z
-1756
-twanvl
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-0fc631ac-6414-0410-93d0-97cfa31319b6
-
-magic-extended-art.mse-style
-dir
-
-magic-default-image.mse-include
-dir
-
-vanguard-standard.mse-style
-dir
-
-magic-new.mse-style
-dir
-
-magic-mana-beveled.mse-symbol-font
-dir
-
-jp.mse-locale
-dir
-
-pl.mse-locale
-dir
-
-magic-old-token.mse-style
-dir
-
-it.mse-locale
-dir
-
-magic-mana-small-grey.mse-symbol-font
-dir
-
-yugioh.mse-game
-dir
-
-magic-new-common.mse-include
-dir
-
-magic-future-split.mse-style
-dir
-
-magic-firepenguinmasterpromo.mse-style
-dir
-
-vs-extended-hellboy.mse-style
-dir
-
-magic-spoiler.mse-export-template
-dir
-
-magic-new-planeswalker-4abil.mse-style
-dir
-
-vs-standard.mse-style
-dir
-
-archenemy-forum.mse-export-template
-dir
-
-dictionaries
-dir
-
-magic-counter.mse-style
-dir
-
-magic-overlay-foil-normal.mse-include
-dir
-
-magic-new-promo.mse-style
-dir
-
-magic-future-common.mse-include
-dir
-
-magic-new-leveler.mse-style
-dir
-
-es.mse-locale
-dir
-
-magic-blends.mse-include
-dir
-
-magic-new-token-clear.mse-style
-dir
-
-vs-standard-official.mse-symbol-font
-dir
-
-planechase.mse-game
-dir
-
-vs-hellboy.mse-style
-dir
-
-magic-planeshifted.mse-style
-dir
-
-vs-insanity.mse-style
-dir
-
-magic-old-promo.mse-style
-dir
-
-vanguard-forum.mse-export-template
-dir
-
-magic-textless.mse-style
-dir
-
-magic-new-clear.mse-style
-dir
-
-magic-firepenguinmaster-planeswalker.mse-style
-dir
-
-magic-new-textless-land.mse-style
-dir
-
-magic-new-planeswalker.mse-style
-dir
-
-magic-firepenguinmaster-flip.mse-style
-dir
-
-vs-alter.mse-style
-dir
-
-magic-new-flip.mse-style
-dir
-
-magic-forum.mse-export-template
-dir
-
-planechase-standard.mse-style
-dir
-
-en.mse-locale
-dir
-
-vs.mse-game
-dir
-
-magic-old-textless.mse-style
-dir
-
-magic-firepenguinmaster.mse-style
-dir
-
-fr.mse-locale
-dir
-
-magic-mana-small.mse-symbol-font
-dir
-
-magic-planeshifted-split.mse-style
-dir
-
-cht.mse-locale
-dir
-
-magic-firepenguinmastersplit.mse-style
-dir
-
-da.mse-locale
-dir
-
-archenemy.mse-game
-dir
-
-de.mse-locale
-dir
-
-vs-standard-arrow.mse-symbol-font
-dir
-
-magic.mse-game
-dir
-
-magic-embossedletters.mse-symbol-font
-dir
-
-magic-mana-large.mse-symbol-font
-dir
-
-magic-old.mse-style
-dir
-
-vs-oversize.mse-style
-dir
-
-magic-new-split.mse-style
-dir
-
-magic-future-textless.mse-style
-dir
-
-vs-common.mse-include
-dir
-
-yugioh-standard.mse-style
-dir
-
-yugioh-standard-levels.mse-symbol-font
-dir
-
-archenemy-standard.mse-style
-dir
-
-vs-extended-art.mse-style
-dir
-
-magic-mana-future.mse-symbol-font
-dir
-
-chs.mse-locale
-dir
-
-vs-new.mse-style
-dir
-
-yugioh-text-replacements.mse-symbol-font
-dir
-
-magic-new-transform.mse-style
-dir
-
-vanguard.mse-game
-dir
-
-magic-watermarks.mse-include
-dir
-
-pt-br.mse-locale
-dir
-
-planechase-forum.mse-export-template
-dir
-
-yugioh-forum.mse-export-template
-dir
-
-magic-old-split.mse-style
-dir
-
-magic-new-token.mse-style
-dir
-
-vs-standard-new.mse-symbol-font
-dir
-
-magic-future.mse-style
-dir
-
-magic-firepenguinmastertokens.mse-style
-dir
-
-vs-spoiler.mse-export-template
-dir
-
